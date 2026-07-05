@@ -1,4 +1,4 @@
-```markdown
+پ
 # Diabetes Classification with Logistic Regression
 
 This project implements a logistic regression model using PyTorch to predict diabetes outcomes based on diagnostic measurements. The model is trained on the Pima Indians Diabetes Database.
@@ -109,4 +109,3 @@ The notebook computes and displays:
 - Standard scaling is applied to all features before training
 - Random seed is set for reproducibility
 - Zero values in Glucose, BloodPressure, SkinThickness, Insulin, and BMI are replaced with column means during preprocessing
-```
